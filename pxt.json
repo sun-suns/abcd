@@ -9,7 +9,10 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "custom.ts"
+        "custom.ts",
+        "first-tutorial.md",
+        "_locales/ja/minecraft-hoc2019-jsdoc-strings.json",
+        "_locales/ja/minecraft-hoc2019-strings.json"
     ],
     "testFiles": [
         "test.ts"
