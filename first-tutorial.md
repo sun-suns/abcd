@@ -20,9 +20,7 @@
 
 ## Activity 2
 おおおお
-```blocks
-hourOfCode.openDoor()
-```
+
 
 ## Activity 3
 
