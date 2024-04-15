@@ -11,8 +11,8 @@
         "README.md",
         "custom.ts",
         "first-tutorial.md",
-        "_locales/it/minecraft-hoc2019-strings.json",
-        "_locales/ja/minecraft-hoc2019-jsdoc-strings.json"
+        "_locales/ja/abcd-strings.json",
+        "_locales/ja/abcd-jsdoc-strings.json"
     ],
     "testFiles": [
         "test.ts"
