@@ -10,7 +10,9 @@
         "main.ts",
         "README.md",
         "custom.ts",
-        "first-tutorial.md"
+        "first-tutorial.md",
+        "_locales/ja/abcd-jsdoc-strings.json",
+        "_locales/ja/abcd-strings.json"
     ],
     "testFiles": [
         "test.ts"
