@@ -5,6 +5,8 @@
         "core": "*"
     },
     "files": [
+        "main.blocks",
+        "main.ts",
         "README.md",
         "extension.ts",
         "first-tutorial.md",
