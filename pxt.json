@@ -2,8 +2,7 @@
     "name": "abcd",
     "description": "",
     "dependencies": {
-        "core": "*",
-        "builder": "*"
+        "core": "*"
     },
     "files": [
         "README.md",
@@ -21,7 +20,5 @@
     },
     "supportedTargets": [
         "minecraft"
-    ],
-    "public": true,
-    "preferredEditor": "tsprj"
+    ]
 }
