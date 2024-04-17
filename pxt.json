@@ -25,5 +25,6 @@
     "supportedTargets": [
         "minecraft"
     ],
-    "public": true
+    "public": true,
+    "preferredEditor": "tsprj"
 }
