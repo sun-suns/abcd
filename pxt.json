@@ -11,6 +11,7 @@
         "README.md",
         "extension.ts",
         "first-tutorial.md",
+        "custom.ts",
         "_locales/ja/abcd-jsdoc-strings.json",
         "_locales/ja/abcd-strings.json"
     ],
