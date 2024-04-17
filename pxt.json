@@ -6,10 +6,7 @@
         "builder": "*"
     },
     "files": [
-        "main.blocks",
-        "main.ts",
         "README.md",
-        "custom.ts",
         "extension.ts",
         "first-tutorial.md",
         "_locales/ja/abcd-jsdoc-strings.json",
